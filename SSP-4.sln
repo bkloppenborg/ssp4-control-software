@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SSP4", "SSP-4\SSP4.csproj", "{D49A8857-CB51-4978-AD46-7D147841938B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SSP4Installer", "SSP4Installer\SSP4Installer.vdproj", "{92B1EF2E-E7EB-42AD-86A0-0C5EF5690EC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D49A8857-CB51-4978-AD46-7D147841938B}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{D49A8857-CB51-4978-AD46-7D147841938B}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{D49A8857-CB51-4978-AD46-7D147841938B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D49A8857-CB51-4978-AD46-7D147841938B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92B1EF2E-E7EB-42AD-86A0-0C5EF5690EC4}.Debug|Any CPU.ActiveCfg = Release
+		{92B1EF2E-E7EB-42AD-86A0-0C5EF5690EC4}.Debug|Any CPU.Build.0 = Release
+		{92B1EF2E-E7EB-42AD-86A0-0C5EF5690EC4}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
